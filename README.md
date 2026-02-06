@@ -42,6 +42,7 @@ Example request (curl):
 curl -H "x-api-key: YOUR_API_KEY" https://fack-data.onrender.com/fake-user?seed=42
 
 Example response:
+
 {
   "name": "John Doe",
   "email": "john.doe@example.com",
@@ -57,3 +58,10 @@ https://fack-data.onrender.com/docs
 
 No signup. No UI. Just data.
 Happy coding 🚀
+
+
+**Response**
+```json
+{
+  "api_key": "your_api_key_here"
+}
