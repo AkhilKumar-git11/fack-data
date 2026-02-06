@@ -78,4 +78,4 @@ Enough for learning, testing, and breaking things responsibly 😉
 https://fack-data.onrender.com/docs
 ```
 No signup. No UI. Just data.
-Happy coding 🚀
+## Happy coding 🚀
