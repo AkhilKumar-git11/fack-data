@@ -29,7 +29,9 @@ Simple. Get an API key first.
 ## 🔑 Get API Key
 
 **Endpoint**
+```sql
 POST /generate-key
+```
 
 **Response**
 ```json
