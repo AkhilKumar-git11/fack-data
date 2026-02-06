@@ -7,22 +7,24 @@ Perfect for testing, demos, learning, and side projects.
 ---
 
 ## Base URL
-https://your-app-name.onrender.com
+https://fack-data.onrender.com
 
 ---
 
 
-How do I start?
+## How do I start?
 Simple. Get an API key first.
 
+### Get API Key
 POST /generate-key
 
-You’ll get something like this:
+**You’ll get something like this:**
+```json
 {
   "api_key": "your_api_key_here"
 }
 
-Keep this key safe. It’s your entry ticket 🎟️
+Keep this key safe. It’s your ticket to Hollywood 🎟️
 
 Generate a fake user:
 GET /fake-user
