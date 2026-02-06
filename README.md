@@ -4,8 +4,8 @@ Need fake users but don’t want fake headaches?
 This API gives you realistic fake user data in one request.
 Perfect for testing, demos, learning, and side projects.
 
-Base URL:
-https://your-app-name.onrender.com
+## Base URL:
+https://fack-data.onrender.com
 
 How do I start?
 Simple. Get an API key first.
@@ -34,7 +34,7 @@ Use the same seed and you’ll get the same fake user every time.
 Great for testing without surprises.
 
 Example request (curl):
-curl -H "x-api-key: YOUR_API_KEY" https://your-app-name.onrender.com/fake-user?seed=42
+curl -H "x-api-key: YOUR_API_KEY" https://fack-data.onrender.com/fake-user?seed=42
 
 Example response:
 {
@@ -48,7 +48,7 @@ Rate limit:
 Enough for learning, testing, and breaking things responsibly 😉
 
 Try it live (Swagger UI):
-https://your-app-name.onrender.com/docs
+https://fack-data.onrender.com/docs
 
 No signup. No UI. Just data.
 Happy coding 🚀
