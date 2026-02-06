@@ -16,7 +16,7 @@ Perfect for:
 ---
 
 ## 🌍 Base URL
-https://fack-data.onrender.com
+https://fake-data-tg3h.onrender.com
 
 ---
 
@@ -60,7 +60,7 @@ Perfect for testing without surprises 🎯
 ## 📌 Example Request (curl)
 ```bash
  curl -H "x-api-key: YOUR_API_KEY" \
- https://fack-data.onrender.com/fake-user?seed=42
+ https://fake-data-tg3h.onrender.com/fake-user?seed=42
 ```
 ## 📦 Example Response
 ```json
@@ -77,7 +77,7 @@ Enough for learning, testing, and breaking things responsibly 😉
 ## 🧪 Try It Live
 **Swagger UI (playground):**
 ```arduino
-https://fack-data.onrender.com/docs
+https://fake-data-tg3h.onrender.com/docs
 ```
 No signup. No UI. Just data.
 ## Happy coding 🚀
