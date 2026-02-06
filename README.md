@@ -4,8 +4,13 @@ Need fake users but don’t want fake headaches?
 This API gives you realistic fake user data in one request.
 Perfect for testing, demos, learning, and side projects.
 
-## Base URL:
-https://fack-data.onrender.com
+---
+
+## Base URL
+https://your-app-name.onrender.com
+
+---
+
 
 How do I start?
 Simple. Get an API key first.
