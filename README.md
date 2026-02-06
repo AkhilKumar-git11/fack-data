@@ -69,7 +69,7 @@ Perfect for testing without surprises 🎯
 }
 ```
 ## ⏱️ Rate Limit
-**100* requests per day (free tier)
+**100** requests per day (free tier)
 Enough for learning, testing, and breaking things responsibly 😉
 
 ## 🧪 Try It Live
