@@ -1,4 +1,4 @@
-# (FUG) Fake User Generator API 😄
+# Fake User API 😄
 
 ![Made with FastAPI](https://img.shields.io/badge/Made%20with-FastAPI-009688?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
