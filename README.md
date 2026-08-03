@@ -39,7 +39,7 @@ POST /generate-key
   "api_key": "your_api_key_here"
 }
 ```
-Keep this key safe. It’s your ticket to Hollywood 🎟️
+Keep this key safe. It’s is important to generate users
 
 ## 👤 Generate a Fake User
 **Endpoint**
